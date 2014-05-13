@@ -2,7 +2,7 @@
 
 ## What's this
 
-A ruby script to copy every objects in a Amazon S3 bucket to another.
+A ruby script to copy every objects from a Amazon S3 bucket to another.
 
 ## Requirements
 
